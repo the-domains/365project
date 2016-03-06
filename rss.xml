@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[365project]]></title>
         <description><![CDATA[365project]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/365project/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 10:38:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 06 Mar 2016 22:08:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/365project/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Welcome</p>]]></description>
-            <link>undefined667a8549-9fa6-4541-a888-8606384301f6/index.html</link>
+            <title><![CDATA[Welcome]]></title>
+            <description><![CDATA[<article><h1>Welcome</h1><p>Welcome to #365project, a photography project posting a photo every day of the year. A good portion of the photos is taken on the day of posting, but the project also serves as an excuse to cut down on my backlog of processing older photos which I hadn't had the opportunity to go through. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c923a1567e90b12ca7e8f002a8d002eda4d8158.jpg"></article>]]></description>
+            <link>https://thegrid.ai/365project/667a8549-9fa6-4541-a888-8606384301f6/index.html</link>
             <guid isPermaLink="false">667a8549-9fa6-4541-a888-8606384301f6</guid>
-            <pubDate>Sun, 06 Mar 2016 10:37:57 GMT</pubDate>
+            <pubDate>Sun, 06 Mar 2016 22:08:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
