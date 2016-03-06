@@ -1,6 +1,6 @@
 name: 365project
 favicon: null
-layout_spectrum: 0.92587
+layout_spectrum: 0.63252
 typography_spectrum: 0.89264
 cta:
   domain: null
@@ -24,5 +24,5 @@ color:
   brandStrength: 0.6875
   lightness: 0.7344773176591843
   saturation: 0.0579925044439733
-  rhythmicContrast: 0.75
+  rhythmicContrast: 0.5
 purpose: []
