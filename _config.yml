@@ -1,0 +1,28 @@
+name: 365project
+favicon: null
+layout_spectrum: 0.5705526468809694
+typography_spectrum: 0.6733128663618118
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.540399017278105
+  lightness: 0.7344773176591843
+  saturation: 0.0579925044439733
+  rhythmicContrast: 0.7354344779159874
+purpose: []
